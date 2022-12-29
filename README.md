@@ -11,18 +11,7 @@ I AM FILTER BOT, I CAN STORE YOUR FILRS IN DATABASE
 - ⟴ Custom Download Name And URL
 - ⟴ Custom Texts (About, Help, Stats,More..)
 - ⟴ Custom URL Buttons (Updates channel, Add To Group, Force Sub, More...)
-
-
-
-
-<p align="center">
-  <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="GreyMatter's Bot Logo">
-</p>
-<h1 align="center">
-  <b>GreyMatter's Bot</b>
-</h1>
-
-
+- 
 ## Features
 
 - [x] 2GB+ Files Now Support
