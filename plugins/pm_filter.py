@@ -820,7 +820,7 @@ async def advantage_spell_chok(msg):
     if not movielist:
         o = await msg.reply("<b>I couldn't find anything related to that.\nCheck your spelling with the help of GOOGLE.COM \n\nPress only the Movie/Series name ONCE (without year)</b>")
         await asyncio.sleep(10)
-        await message.delete()
+        await msg.delete(True)
         await o.delete()
         return
     SPELL_CHECK[msg.id] = movielist
